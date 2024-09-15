@@ -404,20 +404,3 @@ Example response:
   ]
 }
 ```
-
-This README provides an overview of the main API endpoints in your banking application. You may want to add more details, such as authentication requirements, error responses, and any specific business logic or constraints for each endpoint.
-
-This README.md file provides a comprehensive overview of the API endpoints in your banking application. It includes sections for Authentication, Users, Transactions, Accounts, Goals, Budgets, and Reports. Each section describes the available endpoints, their methods, required fields, and provides example requests and responses.
-
-You can further customize this README by adding more specific details about your application, such as:
-
-1. Installation instructions
-2. Environment setup
-3. Database schema
-4. Authentication and authorization details
-5. Rate limiting information
-6. Error handling and common error codes
-7. Versioning strategy
-8. Changelog
-
-Remember to keep this documentation up-to-date as you make changes to your API.
